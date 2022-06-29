@@ -1,0 +1,15 @@
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\Learn-asp.net-core\Net-core-reactjs\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
