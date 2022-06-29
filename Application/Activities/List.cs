@@ -12,10 +12,10 @@ namespace Application.Activities
 {
     public class List
     {
-        public class Query : IRequest<List<Activity>> {}
+        public class Query : IRequest<List<Activity>> { }
         public class Handler : IRequestHandler<Query, List<Activity>>
         {
-        private readonly DataContext _context;
+            private readonly DataContext _context;
             public Handler(DataContext context)
             {
                 _context = context;
@@ -23,6 +23,7 @@ namespace Application.Activities
 
             public async Task<List<Activity>> Handle(Query request, CancellationToken cancellationToken)
             {
+                //we can use the cancellationToken when user cancel the (may be) long request
                 return await _context.Activities.ToListAsync();
             }
         }
